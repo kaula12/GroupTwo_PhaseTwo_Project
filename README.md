@@ -11,13 +11,12 @@ Members: 1. Angela Wachira
 
 **MOVIES DATA**
 
-***Tableau link***: https://public.tableau.com/views/Aviation_17660534129580/Aviation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
+***Tableau link***: https://public.tableau.com/views/Group_Two_Phase_Two_Project_Story/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link 
 **OVERVIEW**
 
 The entertainment industry has increasingly shifted toward original video content. Established companies are investing heavily in film production to capture audience attention, diversify income streams and remain competitive in a rapidly evolving media landscape. Recognizing this trend the company plans to launch a new movie studio but lacks proir experience in film production and distribution.
 
-Because movie production requires large upfront investments and carries high uncertainity, relying on intuition alone would expose the company to significant financial risk. A data-driven approach is therefore essential to understand what type of films perform well in the cuurrent market and to reduce the likeliood of costly failures.
+Because movie production requires large upfront investments and carries high uncertainity, relying on intuition alone would expose the company to significant financial risk. A data-driven approach is therefore essential to understand what type of films perform well in the current market and to reduce the likeliood of costly failures.
 
 **PROBLEM STATEMENT**
 
